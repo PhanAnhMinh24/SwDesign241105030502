@@ -1,4 +1,6 @@
 1. Phân tích kiến trúc
+
+
    1.1 Đề xuất kiến trúc
      - Kiến trúc tổng quát
        Kiến trúc của Hệ thống Quản lý Tiền lương sẽ được xây dựng dựa trên mô hình client-server, với các thành phần chính sau:
@@ -24,7 +26,7 @@
           
    1.2 Biểu đồ package mô tả kiến trúc.
     ![Diagram](https://www.planttext.com/api/plantuml/png/T99DQiCm48NtFiMGVJOvG4dZT578mYJTXIucyjI8wiUCv80fFLaNFLAl4Dc2D1RIzisJtlT6-llvtJgFx0UjgXx59tO4guR9aV7efJLmm95u1LyLmFb5zygEHF1gFF472dgVvETMIoETP_IMazcHUilUFQhVrN_KRd3Ia7Dmi9qKYx0tgKaWjz2m5S4YJJVVsE38LYceKOb1pP2pNbkjPR05vdGK8S85S2A-oXHYZnxpFQV91LsiSWTQg2TKv9RIVhU1sXf38XA4hDpgOBr-AjGisxFjYoyGpsJgPsEZErC-cvhWFxWBBn4FfFjAjrM4s99ffszw0m00__y30000)
-2. Cơ chế phân tích
+3. Cơ chế phân tích
    Phân tích yêu cầu
 Xác thực và phân quyền người dùng
 
