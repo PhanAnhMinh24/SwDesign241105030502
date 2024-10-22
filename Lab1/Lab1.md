@@ -144,6 +144,11 @@ Cung cấp danh sách charge numbers cho nhân viên.
 Kiểm tra tính khả dụng của charge numbers.
 
 Biểu đồ Sequence: ![Diagram](https://www.planttext.com/api/plantuml/png/T99DQiCm48NtFiMGVJOvG4dZT578mYJTXIucyjI8wiUCv80fFLaNFLAl4Dc2D1RIzisJtlT6-llvtJgFx0UjgXx59tO4guR9aV7efJLmm95u1LyLmFb5zygEHF1gFF472dgVvETMIoETP_IMazcHUilUFQhVrN_KRd3Ia7Dmi9qKYx0tgKaWjz2m5S4YJJVVsE38LYceKOb1pP2pNbkjPR05vdGK8S85S2A-oXHYZnxpFQV91LsiSWTQg2TKv9RIVhU1sXf38XA4hDpgOBr-AjGisxFjYoyGpsJgPsEZErC-cvhWFxWBBn4FfFjAjrM4s99ffszw0m00__y30000)
+ Nhiệm vụ của từng lớp phân tích
+Employee: Tương tác với hệ thống để ghi lại giờ làm việc và nộp bảng thời gian.
+Timecard: Chịu trách nhiệm lưu trữ và xử lý thông tin giờ làm việc, cũng như quản lý trạng thái của bảng thời gian.
+ChargeNumber: Cung cấp thông tin liên quan đến charge mà nhân viên ghi giờ làm việc.
+ProjectManagementDatabase: Cung cấp danh sách charge numbers và kiểm tra tính khả dụng của chúng.
 Biểu đồ lớp mô tả lớp phân tích:![Diagram](https://www.planttext.com/api/plantuml/png/T99DQiCm48NtFiMGVJOvG4dZT578mYJTXIucyjI8wiUCv80fFLaNFLAl4Dc2D1RIzisJtlT6-llvtJgFx0UjgXx59tO4guR9aV7efJLmm95u1LyLmFb5zygEHF1gFF472dgVvETMIoETP_IMazcHUilUFQhVrN_KRd3Ia7Dmi9qKYx0tgKaWjz2m5S4YJJVVsE38LYceKOb1pP2pNbkjPR05vdGK8S85S2A-oXHYZnxpFQV91LsiSWTQg2TKv9RIVhU1sXf38XA4hDpgOBr-AjGisxFjYoyGpsJgPsEZErC-cvhWFxWBBn4FfFjAjrM4s99ffszw0m00__y30000)
 5. Hợp nhất kết quả phân tích 02 ca sử dụng
 Hợp nhất hai ca sử dụng cho thấy sự tương tác giữa các lớp và cách mà thông tin được xử lý trong hệ thống. Mỗi ca sử dụng đóng vai trò quan trọng trong việc đảm bảo rằng nhân viên có thể quản lý thông tin thanh toán và giờ làm việc một cách hiệu quả.
