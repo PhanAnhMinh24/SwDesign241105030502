@@ -1,10 +1,19 @@
 ** 1. Subsystem context diagrams**
+
+
+
+
+
 PrintService
 Mô tả: PrintService được sử dụng để in các tài liệu cần thiết, chẳng hạn như phiếu lương của nhân viên hoặc hóa đơn giao dịch. Hệ thống này kết nối với Payroll System để lấy thông tin về các tài liệu cần in, sau đó gửi tài liệu tới máy in.
 Các thành phần và đối tượng liên quan:
 Payroll System: Gửi thông tin tài liệu cần in và nhận phản hồi về quá trình in.
 Printer (Máy in): Thiết bị được sử dụng để in các tài liệu mà hệ thống PrintService gửi tới.
 ![Diagram](https://www.planttext.com/api/plantuml/png/j59B2eCm5Dpd50zN5cfejo8Yj1jtGa-GQeI09f94QMXxiYvwf5wXyPDIjTjca_UPoGn3NezdeZIHkgqhb5T4ASY8aQAg3eBh_gOIhWY68ri-BVqDkYF4kAQo93c5D9EsEL7PCTivVDCFZo9lQygrNqm5X4x2hROZqYhPrLYbl1Io9fe9FaXDrhvLeaYrPsMKfhNbYuk9utyeMnJJPadyZ5SaXDO1UZkCznu4GRn8AXpreHafu9mgw1X1S-pqI7J3U1R40jQBBCt-GAnz9vGN_Izu0m00__y30000)
+
+
+
+
  Project Management Database
  Mô tả: ProjectManagementDatabase là hệ thống cơ sở dữ liệu lưu trữ thông tin về các dự án, bao gồm mã số dự án, chi tiết thanh toán và thông tin liên quan khác. Payroll System kết nối với hệ thống này để lấy thông tin về dự án, phục vụ cho các quy trình thanh toán hoặc kiểm tra chi phí.
 Các thành phần và đối tượng liên quan:
