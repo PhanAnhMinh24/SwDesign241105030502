@@ -19,6 +19,9 @@ Printer (Máy in): Thiết bị được sử dụng để in các tài liệu m
 Các thành phần và đối tượng liên quan:
 Payroll System: Lấy thông tin dự án từ ProjectManagementDatabase khi cần tính lương hoặc chi phí liên quan.
 Project Management Database: Cơ sở dữ liệu chứa thông tin về các dự án của công ty.
+
+
+
 ![Diagram](https://www.planttext.com/api/plantuml/png/j59B2i8m4Dtd58Ch1IswBQK8kd4Xz0fZEqgaJJIPYaKzcGkFv1LiQskBOd5ZDfdCvxqtZzoljwbbD9mciGXZj1O2p8oEuvbMNDnau2IWF8ROI3fGOFIMGfuZOtyWBa98nMJM618igjeI5Mue8LLshT3I2sL3t0ROFUF575m8wdW8TLgjTQkGlqo2BBKgUIl1NoazpwOhcrccf00yPhx_3navfUIi6NjFDEr2VBhR6plEf0UZaT_bdfkxlq_9SYq9ehm41ucYOwh2ziwEyzscBe12LRFNZusjVQUaek9hFG000F__0m00)
 
 
