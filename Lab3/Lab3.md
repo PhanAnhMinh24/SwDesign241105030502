@@ -21,10 +21,13 @@ Project Management Database: Cơ sở dữ liệu chứa thông tin về các d�
 
 
 **3. Design Element to Owning Package Map**
+
 ![image](https://github.com/user-attachments/assets/c1a86372-2b41-4ab9-8de1-5a25e7323634)
 
 
 
+
 **4. Architectural layers and their dependencies**
+
 ![Diagram](https://www.planttext.com/api/plantuml/png/R99DJiCm48NtSmgh6rQz0kfFG49gH6a56zI5cmxH26Scibsg2d4o5Xo9Av3QQOZJxkoPUS-Zx_dt-sVYlBP-Nnc0MXVlkaGrMbfqo5vx4bOBVKGxKf-WrElpWvfBLGitNRTHfzAzsAezlX0Ut0Q-UaxJkZPKN1hDXRqLOz2ssZNQ3ogmlIKoAQb8NMTxHupE9PPtxCdJsI6JIXEhN7PesbAdMkqD3lPSDekGyyW59gOhhCMH5_jlF7qSQ3FjzLQxL9WVrq-Bg5YAywN5xfuBbvBDWicDol2DcBXKEwoHTyq6pLDgY_w0oCgSB1qCmO_7job3EESGEXrCQ3E9vIjK8KqYZ7KWePTAwAHGuOfXd1kIXbuuOI312iEmubk1CmmI2At85k98BFKONvUScSEaWHn--ny0003__mC0)
 
