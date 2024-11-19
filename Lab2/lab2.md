@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   1. Phân tích tất cả các ca sử dụng còn lại trong hệ thống Payroll System.
+=======
+ 1. Phân tích tất cả các ca sử dụng còn lại trong hệ thống Payroll System.
+>>>>>>> 0a09ab92c57aecd8781bb8f0515770078d214a33
     a, Run Payroll
  Mô Tả Ngắn Gọn
 Ca sử dụng "Run Payroll" mô tả quy trình hệ thống xử lý việc thanh toán lương cho nhân viên, diễn ra tự động vào thứ Sáu hàng tuần và ngày làm việc cuối cùng của mỗi tháng. Quá trình này bao gồm việc truy xuất dữ liệu nhân viên cần được trả lương, tính toán tiền lương dựa trên các yếu tố liên quan và tiến hành các thao tác như in phiếu lương hoặc gửi yêu cầu chuyển khoản đến ngân hàng.
@@ -266,4 +270,8 @@ public class Main {
         System.out.println("Hours worked: " + timecard.getHoursWorked());
     }
 }
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 0a09ab92c57aecd8781bb8f0515770078d214a33
