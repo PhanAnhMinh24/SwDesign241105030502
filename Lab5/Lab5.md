@@ -60,6 +60,9 @@ Hệ thống Quản lý mở rộng và linh hoạt luôn sẵn sàng để hỗ
 
 
 
+
+
+
  -----------------------------------------------------------------------------------------------------------------------------------------------------------
  1. Use Case Diagram (Sơ đồ ca sử dụng)
     ![Diagram](https://www.planttext.com/api/plantuml/png/P9AnIWD148RxUOhX-XJ69AK4HKXZY44VOBqiTmUNkNYt9mIn40jRBIq4evqGY63ZBP9YGzvZdy1NSB9SpYGsm-p-t_mxC-oFdhSp9LAL3sC0uQiaHQyRcbV2gyYyauSYm-FXA4x6KgxrqzmMRuIn-NRoYI0Ho7Ij7bhzXAFG5bD2SawPrH-ExFG1KkahGK4iqUjOVOygjFgH0ko9SPh4iOVNW9XdqXSP8uk7nHsBjB8REO_pexrDeEiKTZ6VpAc8C8YiVkRcNeOy0h_WbsNrpR8pCwKGLM8cFCTojfnGK6BxMvWj9WaF4zbYdk-0ZV_WXU7Why8ssjn4Usudb_dOwblUKB2SSRyH3inNnRVW1c2zTQpL3jpKEnTrA1TV0TldVUZqAwbA6tzf4rWfynP0Mz9WzGj-0G00__y30000)
@@ -72,8 +75,10 @@ Hệ thống Quản lý mở rộng và linh hoạt luôn sẵn sàng để hỗ
 
 
 
+
    Đăng nhập (Login)
     ![Diagram](https://www.planttext.com/api/plantuml/png/P9AnIWD148RxUOhX-XJ69AK4HKXZY44VOBqiTmUNkNYt9mIn40jRBIq4evqGY63ZBP9YGzvZdy1NSB9SpYGsm-p-t_mxC-oFdhSp9LAL3sC0uQiaHQyRcbV2gyYyauSYm-FXA4x6KgxrqzmMRuIn-NRoYI0Ho7Ij7bhzXAFG5bD2SawPrH-ExFG1KkahGK4iqUjOVOygjFgH0ko9SPh4iOVNW9XdqXSP8uk7nHsBjB8REO_pexrDeEiKTZ6VpAc8C8YiVkRcNeOy0h_WbsNrpR8pCwKGLM8cFCTojfnGK6BxMvWj9WaF4zbYdk-0ZV_WXU7Why8ssjn4Usudb_dOwblUKB2SSRyH3inNnRVW1c2zTQpL3jpKEnTrA1TV0TldVUZqAwbA6tzf4rWfynP0Mz9WzGj-0G00__y30000)
+
 
 
 
@@ -86,9 +91,12 @@ Hệ thống Quản lý mở rộng và linh hoạt luôn sẵn sàng để hỗ
 
 
 
+
    Tính toán lương
 
     ![Diagram](https://www.planttext.com/api/plantuml/png/T94zJiD044RxFSN8VIv0WQ8a1GKK20fQurYsXJq6UpR29HKL1GT0sA0K84MaeBA5KepaU-m9k0BZ7o8dKfejTj_CzsRsjzgCKx8Jqb6eR8VY1AnpRSftX91_BB1JEBFHzjn4kKW1PM2TcEeHo3VLCtejS96bv4RRzsbTG6ggLvYRwWl2G73TShE9Kdqp61ttPN04K-drX42yGXyevaAowtLTeATwHkZPHCZBH6TmBtfB4WF-HWyeG42Vtn0M0N_AoJbualaY_daabnBlAAaUxKHgANMap-tGSX2t9VcXHPODtmMAxOVJsnxmFAtN6cvCkI6uQvQvH-_RN77Xo12cNBMJ3pt-zoMpT_DUSn637tCk2-lsiDDQZLsSDt-f_W000F__0m00)
+
+
 
 
 
@@ -98,8 +106,14 @@ Hệ thống Quản lý mở rộng và linh hoạt luôn sẵn sàng để hỗ
 
 
 
+
+
+
    4. Activity Diagram (Sơ đồ hoạt động)
       ![Diagram](https://www.planttext.com/api/plantuml/png/V90nQiCm68LtdUADpXNieTbR2eKi7OEZMABoRpUM0faxz1IbSJCK0g4PEacK30BVGoVe5IgBG5ietHxlFVxlvtswqxJJyvKsjM99iFnQ-1V2MlezWKImXnQL3Eu9oc_hw0VtM1OilupYeOPUpQ7zWGH4SBiMAiO5aqjaC-7VgOAMz2Ewc40BJiWsl9im8ByQZWPhlsrG3Zswu9wn2EuDQkIOOgpSc61t5F4VsFYzGHdigpb3rN0SUgfIRvOStVYUVla9SHViIUD-FFKVZgkE8wCc_NRxJJiFeOBjvLzpS5h8PLomQTaqwd7EBm000F__0m00)
+
+
+
 
 
 
